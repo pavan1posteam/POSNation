@@ -1,0 +1,58 @@
+D:\API - Projects\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe.config
+D:\API - Projects\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe
+D:\API - Projects\POS_Nation\POS_Nation\bin\Debug\POS_Nation.pdb
+D:\API - Projects\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+D:\API - Projects\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+D:\API - Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.AssemblyReference.cache
+D:\API - Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+D:\API - Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+D:\API - Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
+D:\API - Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
+D:\Latest Projects\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe.config
+D:\Latest Projects\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe
+D:\Latest Projects\POS_Nation\POS_Nation\bin\Debug\POS_Nation.pdb
+D:\Latest Projects\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+D:\Latest Projects\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+D:\Latest Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+D:\Latest Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+D:\Latest Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
+D:\Latest Projects\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe.config
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.pdb
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
+D:\Latest Projects\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe.config
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.pdb
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
+C:\Users\Dell\Downloads\POS_Nation (2)\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.AssemblyReference.cache
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe.config
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\POS_Nation.pdb
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
+D:\BottleCaps\API\POS_Nation\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.AssemblyReference.cache
+C:\Bottlecapps\API\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe.config
+C:\Bottlecapps\API\POS_Nation\POS_Nation\bin\Debug\POS_Nation.exe
+C:\Bottlecapps\API\POS_Nation\POS_Nation\bin\Debug\POS_Nation.pdb
+C:\Bottlecapps\API\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+C:\Bottlecapps\API\POS_Nation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.AssemblyReference.cache
+C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
+C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
