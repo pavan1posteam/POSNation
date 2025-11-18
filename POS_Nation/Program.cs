@@ -59,6 +59,12 @@ namespace POS_Nation
         {
             try
             {
+                bool flag = Regex.IsMatch(AuthUrl, @"com$");
+                if (flag)
+                {
+                    AuthUrl += "/api/auth";
+                    flag = false;
+                }
                 System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
                 var BaseUrl = AuthUrl;
                 Password = ComputeSha256Hash(Password);
@@ -77,7 +83,11 @@ namespace POS_Nation
                     responseData = response.Content.ReadAsStringAsync().Result;
                     response.EnsureSuccessStatusCode();
                 }).Wait();
+                
                 var BaseUrl1 = ItemUrl;
+                flag = Regex.IsMatch(BaseUrl1, @"com$");
+                if (flag)
+                    BaseUrl1 += "/api/items/get";
                 response = new HttpResponseMessage();
                 Task.Run(async () =>
                 {

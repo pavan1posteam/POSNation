@@ -56,3 +56,12 @@ C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompile
 C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
 C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.exe
 C:\Bottlecapps\API\POS_Nation\POS_Nation\obj\Debug\POS_Nation.pdb
+D:\Bottlecapps\API\POSNation\POS_Nation\bin\Debug\POS_Nation.exe.config
+D:\Bottlecapps\API\POSNation\POS_Nation\bin\Debug\POS_Nation.exe
+D:\Bottlecapps\API\POSNation\POS_Nation\bin\Debug\POS_Nation.pdb
+D:\Bottlecapps\API\POSNation\POS_Nation\bin\Debug\Newtonsoft.Json.dll
+D:\Bottlecapps\API\POSNation\POS_Nation\bin\Debug\Newtonsoft.Json.xml
+D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileInputs.cache
+D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
+D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.exe
+D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.pdb
