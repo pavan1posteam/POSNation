@@ -27,11 +27,11 @@ namespace POS_Nation
                 {
                     try
                     {
-                        /*if (current.StoreSettings.StoreId==12726)
+                        if (current.StoreSettings.StoreId==12729)
                         {
-
+                            Console.WriteLine("fetching storeid_ = " + current.StoreSettings.StoreId);
                         }
-                        else { continue; }*/
+                        else { continue; }
                         var data = GetData(current.StoreSettings.StoreId, current.StoreSettings.POSSettings.Username, current.StoreSettings.POSSettings.Password, current.StoreSettings.POSSettings.AuthUrl, current.StoreSettings.POSSettings.ItemUrl, current.StoreSettings.POSSettings.FtpUserName, current.StoreSettings.POSSettings.FtpPassword);
                         var jObj = (JObject.Parse(data)["data"]);
                         Dictionary<object, object> dictObj = jObj.ToObject<Dictionary<object, object>>();
@@ -213,15 +213,20 @@ namespace POS_Nation
                             continue;
                         }
                         pdf.Tax = tax;
-                        if (showtoweb.Contains(storeid.ToString()))   // to remove show to web false
-                        {
-                            if (item.showtoweb == "false")
-                            {
-                                continue;
-                            }
-                        }
+
+                       
                         
-                        if (storeid == 12256)// #38687
+
+                            if (showtoweb.Contains(storeid.ToString()))   // to remove show to web false
+                            {
+                                if (item.showtoweb == "false")
+                                {
+                                    continue;
+                                }
+                            }
+
+                        
+                           if (storeid == 12256)// #38687
                         {
                             fdf.pcat = item.cat_group_name.ToString().Trim();
                             fdf.pcat1 = item.category_name.ToString().Trim();

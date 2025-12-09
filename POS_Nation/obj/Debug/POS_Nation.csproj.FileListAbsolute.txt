@@ -65,3 +65,4 @@ D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.csproj.CoreCompileI
 D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.csproj.CopyComplete
 D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.exe
 D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.pdb
+D:\Bottlecapps\API\POSNation\POS_Nation\obj\Debug\POS_Nation.csproj.AssemblyReference.cache
