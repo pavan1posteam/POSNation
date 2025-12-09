@@ -27,11 +27,11 @@ namespace POS_Nation
                 {
                     try
                     {
-                        if (current.StoreSettings.StoreId==12729)
+                        /*if (current.StoreSettings.StoreId==12729)
                         {
                             Console.WriteLine("fetching storeid_ = " + current.StoreSettings.StoreId);
                         }
-                        else { continue; }
+                        else { continue; }*/
                         var data = GetData(current.StoreSettings.StoreId, current.StoreSettings.POSSettings.Username, current.StoreSettings.POSSettings.Password, current.StoreSettings.POSSettings.AuthUrl, current.StoreSettings.POSSettings.ItemUrl, current.StoreSettings.POSSettings.FtpUserName, current.StoreSettings.POSSettings.FtpPassword);
                         var jObj = (JObject.Parse(data)["data"]);
                         Dictionary<object, object> dictObj = jObj.ToObject<Dictionary<object, object>>();
@@ -65,7 +65,8 @@ namespace POS_Nation
             try
             {
                 bool flag = Regex.IsMatch(AuthUrl, @"com$");
-                if (flag)
+                
+               else if (flag)
                 {
                     AuthUrl += "/api/auth";
                     flag = false;
