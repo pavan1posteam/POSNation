@@ -27,7 +27,7 @@ namespace POS_Nation
                 {
                     try
                     {
-                        /*if (current.StoreSettings.StoreId==12729)
+                        /*if (current.StoreSettings.StoreId==12857)
                         {
                             Console.WriteLine("fetching storeid_ = " + current.StoreSettings.StoreId);
                         }
@@ -66,7 +66,7 @@ namespace POS_Nation
             {
                 bool flag = Regex.IsMatch(AuthUrl, @"com$");
                 
-               else if (flag)
+                if (flag)
                 {
                     AuthUrl += "/api/auth";
                     flag = false;
