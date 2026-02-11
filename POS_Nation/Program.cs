@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -27,7 +28,7 @@ namespace POS_Nation
                 {
                     try
                     {
-                        /*if (current.StoreSettings.StoreId==12857)
+                        /*if (current.StoreSettings.StoreId == 12256)
                         {
                             Console.WriteLine("fetching storeid_ = " + current.StoreSettings.StoreId);
                         }
@@ -101,6 +102,7 @@ namespace POS_Nation
                     responseData = response.Content.ReadAsStringAsync().Result;
                     response.EnsureSuccessStatusCode();
                 }).Wait();
+                File.WriteAllText("Invetory_Info.json", responseData);
                 return responseData;
             }
             catch (Exception ex)
